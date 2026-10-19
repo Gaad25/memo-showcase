@@ -10,14 +10,14 @@
   <a href="https://play.google.com/store/apps/details?id=weyers.memo"><img alt="Get it on Google Play" height="48" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"></a>
 </p>
 
-<!-- Add 3–5 screenshots here, e.g.:
 <p align="center">
-  <img src="screenshots/home.png" width="200">
-  <img src="screenshots/quiz.png" width="200">
-  <img src="screenshots/flashcards.png" width="200">
-  <img src="screenshots/ranking.png" width="200">
+  <img src="screenshots/home.jpg" width="230" alt="Home: study time, points, focus streak and approval meter">
+  &nbsp;
+  <img src="screenshots/agenda.jpg" width="230" alt="Study schedule with AI daily summary">
+  &nbsp;
+  <img src="screenshots/ai-tools.jpg" width="230" alt="AI tools: chat, quiz generator, flashcards, error notebook, essay correction">
 </p>
--->
+<p align="center"><sub>Home dashboard · AI-planned study schedule · AI tools (app UI in Portuguese)</sub></p>
 
 ---
 
@@ -26,8 +26,10 @@
 | Area | What it does |
 |---|---|
 | **Spaced repetition** | Schedules reviews so students revisit content right before they forget it |
-| **Flashcards** | Review decks tied to the spaced-repetition schedule |
-| **AI tutor ("Zoe")** | Generates quizzes and summaries from study material and corrects essays |
+| **Flashcards** | Create cards from text or a photo and review them on a spaced-repetition schedule |
+| **Error notebook** | Turns missed questions into retests and tracks what the student has overcome |
+| **AI tutor ("Zoe")** | Chat for explanations, quiz generator on any topic, summaries, essay correction and a daily study briefing |
+| **Approval meter** | A readiness score for the target exam, showing its weekly change |
 | **Exam analysis** | Breaks down an exam notice (*edital*) into a structured study plan |
 | **Mock exams** | Full simulated exams that mirror the real test format |
 | **Focus tools** | Pomodoro and stopwatch for tracked study sessions |
